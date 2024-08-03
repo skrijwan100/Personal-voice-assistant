@@ -32,7 +32,7 @@ def get_chat_completion(api_key, model, messages, retries=3, backoff_factor=1):
             else:
                 raise e
 
-api_key = "sk-proj-NsNx2WZ7NECJTh8VVJanT3BlbkFJuLFXJLEHK66DUKE0GJBr"
+api_key = ""
 model = "gpt-3.5-turbo"
 messages = [
     {"role": "system", "content": "You are a personal assistant, your name is Jarvis, skilled in explaining complex programming concepts with creative flair like Google."},

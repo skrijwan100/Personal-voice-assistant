@@ -1,0 +1,1 @@
+# This is parsonal voice assicent . Her name is jarvis . she can tell you news, paly some somg from code musice libary and open facebook,google,youtube, 
