@@ -39,7 +39,7 @@ def commendpass(c:str):
 
 
 if __name__=="__main__":
-    speak("chintu is running")
+    speak("jarvis is running")
 
 #inisilation jarvis
 while True:
